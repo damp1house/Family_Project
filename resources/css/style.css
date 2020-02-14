@@ -1,0 +1,68 @@
+.banner {
+    background-image: url("../images/family_banner.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+    color: darkgreen;
+}
+.zacky_tile {
+    background-image: url("../images/Zacky/zacky_tile.jfif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: left;
+    color: whitesmoke;
+}
+
+.alex_tile {
+    background-image: url("../images/Alex/Alex_tile.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: left;
+    color: whitesmoke;
+}
+
+.janine_tile {
+    background-image: url("../images/Janine/Janine_tile.jfif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: left;
+    color: whitesmoke;
+}
+
+.saja_tile {
+    background-image: url("../images/Saja/Saja_tile.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: left;
+    color: whitesmoke;
+}
+
+.mona_tile {
+    background-image: url("../images/Mona/Mona_tile.jfif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: left;
+    color: whitesmoke;
+}
+
+.bob_tile {
+    background-image: url("../images/Bob/Bob_tile.jfif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: left;
+    color: whitesmoke;
+}
